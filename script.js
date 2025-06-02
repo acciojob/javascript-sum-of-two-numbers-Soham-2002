@@ -1,9 +1,9 @@
-let input1 = prompt("Enter the first number:");
-let input2 = prompt("Enter the second number:");
+let firstInput = prompt("Enter the first number:");
+let secondInput = prompt("Enter the second number:");
 
 // Write your code here and print the output using alert function
-const num1 = parseFloat(input1);
-const num2 = parseFloat(input2);
+const num1 = parseFloat(firstInput);
+const num2 = parseFloat(secondInput);
 
 // Validate the inputs
 if (
